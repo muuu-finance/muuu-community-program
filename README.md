@@ -9,7 +9,7 @@ Muuu is a non-custodial lending protocol on Astar Network. Depositors can provid
 
 Astar Network aims to be the biggest hub for the multi-chain era by bridging with Ethereum, Cosmos, and others. With Muuu Finance, the Astar ecosystem will be a huge marketplace for storing all kinds of tokens on any kinds of chains.
 
-In order to accelerate Muuu ecosystem, we need your help. Therefore, we are looking for active members of the community to help promote and raise awareness of Muuu and Astar Network. Community managers will become official representatives of Muuu and will play an important role in creating the future of Kagla and its ecosystem.
+In order to accelerate Muuu ecosystem, we need your help. Therefore, we are looking for active members of the community to help promote and raise awareness of Muuu and Astar Network. Community managers will become official representatives of Muuu and will play an important role in creating the future of Muuu and its ecosystem.
 
 ## Criteria
 
